@@ -239,6 +239,8 @@
 			<destination>{1234539c-2c06-4482-acfe-15a1a581abbf}</destination>
 			<destination>{28eeca54-f88c-412a-ba58-dd6d2c29f1b5}</destination>
 			<destination>{ba05d393-09bb-44b7-a517-3adab142d6c1}</destination>
+			<destination>{47cfc8f8-54b8-46ef-9ed7-b9b49f83165c}</destination>
+			<destination>{8b6f68ec-8492-44c0-86c8-3e7a4e6d2919}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2a44a854-d49e-4eb3-95f3-6344f3658d95}" />
@@ -311,6 +313,16 @@
 			<destination>{7b009c4d-4cf2-43e7-af9f-7d8b93dc3846}</destination>
 			<destination>{b54495ea-ae52-4f2f-8d28-3ce99d70275e}</destination>
 		</relationship>
+	</object>
+	<object class="HighpassSimpleEffect" id="{47cfc8f8-54b8-46ef-9ed7-b9b49f83165c}">
+		<property name="cutoff">
+			<value>180</value>
+		</property>
+	</object>
+	<object class="LowpassSimpleEffect" id="{8b6f68ec-8492-44c0-86c8-3e7a4e6d2919}">
+		<property name="cutoff">
+			<value>13000</value>
+		</property>
 	</object>
 	<object class="AutomationCurve" id="{1f62527e-98ee-49f8-aadf-7201035c8321}">
 		<relationship name="parameter">
