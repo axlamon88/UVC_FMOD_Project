@@ -231,7 +231,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638793083780890747
+  lastModified: 638794462396563007
   FileSizes:
   - Name: 
     Value: 2406
@@ -331,7 +331,7 @@ MonoBehaviour:
     Data4: 1817521979
   Banks:
   - {fileID: -2227994222269126591}
-  IsStream: 0
+  IsStream: 1
   Is3D: 1
   IsOneShot: 0
   Parameters:
@@ -635,7 +635,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638793083780853061
+  lastModified: 638794462396537569
   FileSizes: []
   Exists: 1
 --- !u!114 &-2121767026147365029
@@ -947,7 +947,7 @@ MonoBehaviour:
   - {fileID: -2227994222269126591}
   StringsBanks:
   - {fileID: -7044821969860471736}
-  cacheTime: 638793083780890747
+  cacheTime: 638794462396563007
   cacheVersion: 131846
 --- !u!114 &268058081341061212
 MonoBehaviour:
